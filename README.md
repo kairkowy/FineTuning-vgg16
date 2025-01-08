@@ -8,6 +8,7 @@ VGG16 모델을 이용한 전이학습, 파인튜닝 시나리오.
 이미지 파일(cat&dog): https://www.kaggle.com/datasets/tongpython/cat-and-dog/data
 
 # Directory structure
+```
 data/test
     train/
          cats
@@ -22,7 +23,7 @@ data/test
          cats
          dogs
 repo/
-
+```
 # 참고 자료
 
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
